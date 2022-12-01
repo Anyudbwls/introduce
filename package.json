@@ -1,0 +1,19 @@
+{
+  "name": "introduce",
+  "version": "1.0.0",
+  "description": "# 자기소개 웹페이지를 작성할 때 어떤 목표를 갖고 시작했는지",
+  "main": "AYJ.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anyudbwls/introduce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anyudbwls/introduce/issues"
+  },
+  "homepage": "https://github.com/Anyudbwls/introduce/AYJ.html"
+}
